@@ -1,0 +1,5 @@
+{{#user}}
+Name: Adarsh kushwaha
+Skills: HTML, CSS, python, django, django restframework(REST API), C, Data Structures
+Email: adarshkushawha52@gmail.com
+{{/user}}
